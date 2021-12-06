@@ -58,3 +58,11 @@ info.cern.ch
 ### 서버와 클라이언트
 
 Web Browser(client컴퓨터)에서 Web Server(server컴퓨터)로 요청(request)을 보내면 Web Server에서 index.html을 찾아서 응답(response)한다.
+
+### 웹호스팅
+
+Web server를 연결하기 위한 컴퓨터를 Host라고 한다. 웹서버를 제공해주는 회사를 웹호스팅 업체라고 한다.
+
+GitHub에서도 무료로 호스팅이 가능하다.
+
+Settings -> GitHub Pages -> Source(none -> 해당branch) -> Save
