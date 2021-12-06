@@ -54,3 +54,7 @@ char은 문자 set은 규칙을 뜻한다.
 ###### 웹의 메소포타미아
 
 info.cern.ch
+
+### 서버와 클라이언트
+
+Web Browser(client컴퓨터)에서 Web Server(server컴퓨터)로 요청(request)을 보내면 Web Server에서 index.html을 찾아서 응답(response)한다.
