@@ -66,3 +66,8 @@ Web server를 연결하기 위한 컴퓨터를 Host라고 한다. 웹서버를 �
 GitHub에서도 무료로 호스팅이 가능하다.
 
 Settings -> GitHub Pages -> Source(none -> 해당branch) -> Save
+
+각 컴퓨터의 웹서버 주소
+http://127.0.0.1/ <= **I**nternet **P**rotocol **Address**
+
+http(Hyper Text Transfer Protocol)는 Web Browser과 Web Server과 통신할 때 사용하는 통신규약이다.
