@@ -71,3 +71,20 @@ Settings -> GitHub Pages -> Source(none -> 해당branch) -> Save
 http://127.0.0.1/ <= **I**nternet **P**rotocol **Address**
 
 http(Hyper Text Transfer Protocol)는 Web Browser과 Web Server과 통신할 때 사용하는 통신규약이다.
+
+## CSS
+
+### 기본 문법
+
+1. <style> 태그를 사용하여 css 효과를 줄 수 있다.
+
+```CSS
+<style>
+    a{
+        color:red;
+    }
+</style>
+```
+
+2. style 속성을 사용하여 css 효과를 줄 수 있다.
+
