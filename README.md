@@ -144,8 +144,6 @@ display:grid;
 grid-template-columns : 150px 1fr;
 ```
 
-현재는 flex가 나와 잘 사용하지 않는다.
-
 [caniuse](caniuse.com)에 들어가면 사용빈도수를 알 수 있다.
 
 ### 반응형 디자인
