@@ -130,6 +130,6 @@ padding : 컨텐츠와 테두리의 간격
 margin : 테두리 사이의 간격
 width : 너비
 
-![BOX MODEL](./img/boxmodel.png)
+![BOX MODEL](./img/boxmodel.PNG)
 
 개발자 도구에 들어가면 content, padding, border, margin을 볼 수 있다.
