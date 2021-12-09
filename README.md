@@ -133,3 +133,17 @@ width : 너비
 ![BOX MODEL](./img/boxmodel.PNG)
 
 개발자 도구에 들어가면 content, padding, border, margin을 볼 수 있다.
+
+### Grid
+
+`<div>`태그는 아무 의미없이 디자인의 용도로 사용하는 태그이다. 기본적으로 block element이기에 줄 전체를 사용한다.
+`<span>`태그도 마찬가지로 디자인의 용도인지만 inline element이다.
+
+```CSS
+display:grid;
+grid-template-columns : 150px 1fr;
+```
+
+현재는 flex가 나와 잘 사용하지 않는다.
+
+[caniuse](caniuse.com)에 들어가면 사용빈도수를 알 수 있다.
