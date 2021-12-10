@@ -241,3 +241,9 @@ variable vs constant
 ```javascript
 var name = han;
 ```
+
+### 제어할 태그 선택
+
+```Javascript
+document.querySelector('속성, 아이디, 클래스').style
+```
