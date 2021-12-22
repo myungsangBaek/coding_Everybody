@@ -261,6 +261,22 @@ document.querySelector('속성, 아이디, 클래스').style
 
 조건에 따라 다른 순서의 기능들이 실행되는 것
 
+if 뒤에는 boolean 타입이 들어오고 선택에 따라 if와 else가 실행된다.
+
+```javascript
+if(true){
+
+}else{
+
+}
+
+if(false)){
+
+}else{
+
+}
+```
+
 ### 비교 연산자와 불리언
 
 === 좌항과 우항의 관계에 따라 true와 false를 만들어내는 연산자.
