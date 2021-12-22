@@ -260,3 +260,15 @@ document.querySelector('속성, 아이디, 클래스').style
 ### 조건문
 
 조건에 따라 다른 순서의 기능들이 실행되는 것
+
+### 비교 연산자와 불리언
+
+=== 좌항과 우항의 관계에 따라 true와 false를 만들어내는 연산자.
+
+boolean = true, false
+
+불리언 데이터타입을 사용하여 단순 반복에서 해방될 수 있다.
+
+이항연산자는 좌항과 우항을 결합하여 값을 만든다.
+
+`&lt;`, `&gt;` less than, greater than
