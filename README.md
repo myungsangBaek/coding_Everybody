@@ -290,6 +290,7 @@ boolean = true, false
 `&lt;`, `&gt;` less than, greater than
 
 ### 리펙토링
+
 코드 자체를 효율적으로 만들어 유지보수를 높이고 가독성을 높이도록 개선하는 것을 말한다.
 
 `this`와 변수를 사용하여 중복을 없앨 수 있다.

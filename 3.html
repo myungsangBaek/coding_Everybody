@@ -7,18 +7,32 @@
     </head>
     <body>
         <input
+            id="night_day"
             type="button"
             value="night"
             onclick="
+            var target =  document.querySelector('body');
             if(this.value === 'night'){
-                var target =  document.querySelector('body');
                 target.style.backgroundColor = 'black'; 
                 target.style.color = 'white'; 
                 this.value = 'day';
+
+                var links = document.querySelectorAll('a');
+                var i = 0;
+                while(i<links.length){
+                    links[i].style.color='powderblue';
+                    i = i+1;
+                }
             }else{
                 target.style.backgroundColor = 'white'; 
                 target.style.color = 'black'; 
-            this.value = 'night';
+                this.value = 'night';
+
+                var links = document.querySelectorAll('a');
+                var i = 0;
+                while(i<links.length){
+                    links[i].style.color=''
+                }
             }"
         />
         <h1><a href="index.html">DODODOT</a></h1>
@@ -46,6 +60,7 @@
             type="button"
             value="night"
             onclick="
+            var target = document.querySelector('body')
         if(this.value === 'night'){
             target.style.backgroundColor = 'black'; 
             target.style.color = 'white'; 
