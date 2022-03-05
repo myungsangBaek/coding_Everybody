@@ -348,3 +348,14 @@ jQuery가 js에서는 유명하다. jQuery에서 반복문 처리가 필요없�
 
 **API(Application Programming Interface)**
 애플리케이션을 만들기 위해 프로그래밍을 할 때 사용하는 조작 장치
+
+document : tag 관련
+DOM(Docuemnt Object Model) : (document는 DOM의 일부)
+window : 웹브라우저 자체를 제어
+ajax : 리로드하지않고 정보를 변경하고 싶을때
+cookie : 리로드 되어도 정보를 유지하고싶을때
+offline web application : 오프라인 웹
+webRTC : 화상
+speech : 음성
+webGL : 3차원
+webVR : 가상현실
