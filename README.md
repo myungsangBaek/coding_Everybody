@@ -335,4 +335,16 @@ for...in문 사용
 
 라이브러리는 끌고오는 것 프레임워크는 들어가서 하는 것
 
-jQuery가 js에서는 유명하다.
+jQuery가 js에서는 유명하다. jQuery에서 반복문 처리가 필요없다. `$('')` 로 시작한다.
+
+`$('a').css.('color', color)` <- 모든 a태그의 color를 color로 변경
+
+훨씬 직관적이다.
+
+### UI vs API
+
+**UI(User Interface)**
+사용자가 시스템을 제어하기 위해 사용하는 조작장치
+
+**API(Application Programming Interface)**
+애플리케이션을 만들기 위해 프로그래밍을 할 때 사용하는 조작 장치
